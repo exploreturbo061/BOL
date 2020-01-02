@@ -1,2 +1,2 @@
 # BOL
-Baekjoon online judge 
+Baekjoon online judge solutions (https://www.acmicpc.net/user/legitcode267)
